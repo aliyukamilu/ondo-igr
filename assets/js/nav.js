@@ -10,10 +10,9 @@ let heeaderr = ""
 heeaderr += `
   <a href="index.html" class="flex gap-1 items-center">
   <div class="flex items-center">
-    <img src="./assets/img/logo.png" class="" />
-    <img src="./assets/img/psirs.png" class="w-[70px]" />
+    <img src="./assets/img/logo.png" class="w-[120px]" />
   </div>
-  <p class="text-black fontBold">Plateau IGR Portal</p>
+  <p class="text-black fontBold">Ondo IGR Portal</p>
   </a>
 `
 if (THE_SESSION) {
@@ -162,7 +161,7 @@ const currentYear = new Date().getFullYear()
 $("#footer").html(`
     <footer class="bg-white flex justify-between items-center md:px-10 px-3 py-2 landingFooter border-t border-gray-200">
       <div class="flex items-center gap-2">
-          <p class="text-[#555555] md:text-sm text-xs">Copyright 2021 - ${currentYear} Primeguage Solutions Limited</p>
+          <p class="text-[#555555] md:text-sm text-xs">Copyright 2021 - ${currentYear} Endy General Enterprises</p>
           <img src="./assets/img/logo1.png" class="w-[60px] h-[30px]" alt="">
       </div>
 
@@ -1087,10 +1086,10 @@ let STATES2 = `
   <option value="Nasarawa">Nasarawa</option>
   <option value="Niger">Niger</option>
   <option value="Ogun">Ogun</option>
-  <option value="Ondo">Ondo</option>
+  <option value="Ondo" selected>Ondo</option>
   <option value="Osun">Osun</option>
   <option value="Oyo">Oyo</option>
-  <option value="Plateau" selected>Plateau</option>
+  <option value="Plateau">Plateau</option>
   <option value="Rivers">Rivers</option>
   <option value="Sokoto">Sokoto</option>
   <option value="Taraba">Taraba</option>
@@ -1111,7 +1110,7 @@ if (stateSelect2) {
   stateSelect2.innerHTML = STATES2
 
   if (lgaSelect2) {
-    lgaList2["Plateau"].forEach(lga => {
+    lgaList2["Ondo"].forEach(lga => {
       lgaSelect2.innerHTML += `
     <option value="${lga}">${lga}</option>
   `

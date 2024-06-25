@@ -11,8 +11,8 @@ $(".aside").html(`
         <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
       </a>
       <div class="pt-2">
-      <h5 class="text-[#1E1E1E] text-[15px] fontBold">Plateau IGR Portal</h5>
-      <p class="text-[#1E1E1E] text-[12px] pt-2">Future of tax payment</p>
+      <h5 class="text-[#fff] text-[15px] fontBold">Ondo IGR Portal</h5>
+      <p class="text-[#fff] text-[12px] pt-2">Future of tax payment</p>
       </div>
       </div>
       <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
@@ -243,7 +243,7 @@ const currentYear = new Date().getFullYear()
 $(".footer").html(`
 <div class="flex justify-between">
 <div class="flex items-center gap-x-3">
-  <p class="text-[#1E1E1E] text-[16px]">Copyright 2021 - ${currentYear} Primeguage Solutions Limited </p>
+  <p class="text-[#1E1E1E] text-[16px]">Copyright 2021 - ${currentYear} Endy General Enterprises </p>
   <img src="../assets/img/logo1.png" width="50px" alt="">
 </div>
 <div class="flex items-center gap-x-3">

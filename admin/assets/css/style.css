@@ -9,9 +9,9 @@
 
 .btn.btn-prime {
   color: #000;
-  background-color: #CDA545 !important;
-  border-color: #CDA545;
-  box-shadow: 0 0.125rem 0.25rem 0 #CDA545;
+  background-color: #0058B8 !important;
+  border-color: #0058B8;
+  box-shadow: 0 0.125rem 0.25rem 0 #0058B8;
   border-radius: 100px !important;
 }
 
@@ -25,8 +25,8 @@
 
 .btn.btn-prime:hover {
   color: #000;
-  background-color: #CDA545;
-  border-color: #CDA545;
+  background-color: #0058B8;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -40,7 +40,7 @@ a:hover {
 }
 
 .textPrimary {
-  color: #CDA545;
+  color: #0058B8;
   /* color: #; */
 }
 
@@ -73,19 +73,19 @@ a:hover {
 }
 
 .btn-prime-outline {
-  color: #CDA545 !important;
+  color: #0058B8 !important;
   background-color: #fff !important;
-  border: 1px solid #CDA545;
+  border: 1px solid #0058B8;
   border-radius: 100px !important;
   padding: 7px 20px;
 }
 
 .nav.nav-pills .nav-link.active {
   background: transparent !important;
-  border-bottom: 3px solid #CDA545;
+  border-bottom: 3px solid #0058B8;
   box-shadow: none !important;
   border-radius: 0 !important;
-  color: #CDA545;
+  color: #0058B8;
   font-weight: bolder;
 }
 
@@ -94,9 +94,9 @@ a:hover {
 }
 
 .btn-prime-outline:hover {
-  color: #CDA545;
+  color: #0058B8;
   background-color: #fff;
-  border-color: #CDA545;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -131,7 +131,7 @@ a:hover {
   background-color: #fff !important;
   color: #1E1E1E !important;
   box-shadow: none;
-  border-bottom: 2px solid #CDA545;
+  border-bottom: 2px solid #0058B8;
   border-radius: 0px;
 }
 
@@ -157,7 +157,7 @@ ul {
 
 .stretched-link {
   text-decoration: none;
-  color: #CDA545 !important;
+  color: #0058B8 !important;
 }
 
 .lol {
@@ -247,7 +247,7 @@ ul {
 }
 
 .button {
-  background: #CDA545 !important;
+  background: #0058B8 !important;
   color: #000 !important;
   border: 2px solid var(--primaryCol);
   border-radius: 100px;
@@ -261,8 +261,8 @@ ul {
 
 .button-secondary {
   background: #000 !important;
-  color: #CDA545 !important;
-  border: 1px solid #CDA545;
+  color: #0058B8 !important;
+  border: 1px solid #0058B8;
   ;
   border-radius: 100px;
   padding: 5px 20px;
@@ -270,7 +270,7 @@ ul {
 }
 
 .button-3 {
-  background: #CDA545 !important;
+  background: #0058B8 !important;
   color: #000 !important;
   border: 2px solid var(--primaryCol);
   border-radius: 50px;
@@ -283,21 +283,21 @@ ul {
 }
 
 .bgPrimary {
-  background-color: #CDA545;
+  background-color: #0058B8;
 }
 
 .btn-prime {
   color: #000;
-  background-color: #CDA545;
-  border-color: #CDA545;
-  box-shadow: 0 0.125rem 0.25rem 0 #CDA545;
+  background-color: #0058B8;
+  border-color: #0058B8;
+  box-shadow: 0 0.125rem 0.25rem 0 #0058B8;
   border-radius: 100px !important;
 }
 
 .btn-prime:hover {
   color: #000;
-  background-color: #CDA545;
-  border-color: #CDA545;
+  background-color: #0058B8;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -346,14 +346,14 @@ ul {
 }
 
 .bg-menu-theme {
-  background-color: #CDA545 !important;
+  background-color: #0058B8 !important;
   color: #697a8d;
 }
 
 .bg-menu-theme .menu-link,
 .bg-menu-theme .menu-horizontal-prev,
 .bg-menu-theme .menu-horizontal-next {
-  color: #1E1E1E;
+  color: #fff;
 }
 
 .menu-vertical .menu-inner>.menu-item {
@@ -374,16 +374,16 @@ ul {
 
 .btn.btn-prime {
   color: #000;
-  background-color: #CDA545 !important;
-  border-color: #CDA545;
-  box-shadow: 0 0.125rem 0.25rem 0 #CDA545;
+  background-color: #0058B8 !important;
+  border-color: #0058B8;
+  box-shadow: 0 0.125rem 0.25rem 0 #0058B8;
   border-radius: 100px !important;
 }
 
 .btn.btn-prime:hover {
   color: #000;
-  background-color: #CDA545;
-  border-color: #CDA545;
+  background-color: #0058B8;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -393,17 +393,17 @@ a:hover {
 }
 
 .btn-prime-outline {
-  color: #CDA545 !important;
+  color: #0058B8 !important;
   background-color: #fff !important;
-  border: 1px solid #CDA545;
+  border: 1px solid #0058B8;
   border-radius: 100px !important;
   padding: 7px 20px;
 }
 
 .btn-prime-outline:hover {
-  color: #CDA545;
+  color: #0058B8;
   background-color: #fff;
-  border-color: #CDA545;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -438,7 +438,7 @@ a:hover {
   background-color: #fff !important;
   color: #1E1E1E !important;
   box-shadow: none;
-  border-bottom: 2px solid #CDA545;
+  border-bottom: 2px solid #0058B8;
   border-radius: 0px;
 }
 
@@ -464,7 +464,7 @@ ul {
 
 .stretched-link {
   text-decoration: none;
-  color: #CDA545 !important;
+  color: #0058B8 !important;
 }
 
 .lol {
@@ -561,9 +561,9 @@ ul {
 
 .taxes .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-  color: #CDA545;
+  color: #0058B8;
   background-color: none;
-  border-bottom: 2px solid #CDA545;
+  border-bottom: 2px solid #0058B8;
   border-radius: 0%;
   font-size: 14px;
 }
@@ -575,14 +575,14 @@ ul {
 
 .taxes .nav-pills .nav-link,
 .nav-pills .show>.nav-link {
-  color: #CDA545;
+  color: #0058B8;
   background-color: none;
   border-radius: 0%;
   font-size: 14px;
 }
 
 a:hover {
-  color: #CDA545;
+  color: #0058B8;
 }
 
 
@@ -616,7 +616,7 @@ a:hover {
 }
 
 .payCards.active {
-  border: 2px solid #CDA545;
+  border: 2px solid #0058B8;
 }
 
 .payCards iconify-icon {
@@ -693,19 +693,19 @@ a:hover {
   padding: 8px 16px;
   font-size: 16px;
   color: #fff;
-  background-color: #CDA545;
+  background-color: #0058B8;
   border: none;
   border-radius: 4px;
   cursor: pointer;
 }
 
 .send-button:hover {
-  background-color: #CDA545;
+  background-color: #0058B8;
 }
 
 .send-button:focus {
   outline: none;
-  background-color: #CDA545;
+  background-color: #0058B8;
   /* box-shadow: 0 0 5px rgba(51, 102, 255, 0.5); */
 }
 
@@ -784,7 +784,7 @@ a:hover {
 }
 
 .invoicetop {
-  border: 5px solid #CDA545;
+  border: 5px solid #0058B8;
 }
 
 .select2.select2-container {

@@ -12,7 +12,7 @@ if(dataUser.category == "Individual"){
         <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
       </a>
       <div class="pt-2">
-      <h5 class="text-[#1E1E1E] text-[15px] fontBold">Plateau IGR Portal</h5>
+      <h5 class="text-[#1E1E1E] text-[15px] fontBold">Ondo IGR Portal</h5>
       <p class="text-[#1E1E1E] text-[12px] pt-2">Future of tax payment</p>
       </div>
       </div>
@@ -92,7 +92,7 @@ if(dataUser.category == "Individual"){
         <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
       </a>
       <div class="pt-2">
-      <h5 class="text-[#1E1E1E] text-[15px] fontBold">Plateau IGR Portal</h5>
+      <h5 class="text-[#1E1E1E] text-[15px] fontBold">Ondo IGR Portal</h5>
       <p class="text-[#1E1E1E] text-[12px] pt-2">Future of tax payment</p>
       </div>
       </div>
@@ -186,7 +186,7 @@ $(".navi")
 <a href="../generateinvoice.html" class="button ">
               <iconify-icon icon="ic:baseline-plus"></iconify-icon> Generate Invoice</a>
               
-                <iconify-icon icon="mdi:bell-notification" data-bs-toggle="modal" data-bs-target="#notiModal" class="flex md:flex cursor-pointer text-[#CDA545]" width="32" height="32"></iconify-icon>
+                <iconify-icon icon="mdi:bell-notification" data-bs-toggle="modal" data-bs-target="#notiModal" class="flex md:flex cursor-pointer text-[#0058B8]" width="32" height="32"></iconify-icon>
                  
                   <div class="avatar avatar-online">
                     <img src="./assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
@@ -316,7 +316,7 @@ async function getNotifications() {
       `)
 
     } else {
-      // <button class="text-[#CDA545] text-[12px] underline underline-offset-1">clear</button>
+      // <button class="text-[#0058B8] text-[12px] underline underline-offset-1">clear</button>
       $("#notiModal .modal-body").html(``)
       data.message.forEach((notification, i) => {
         $("#notiModal .modal-body").append(`

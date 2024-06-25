@@ -1,5 +1,5 @@
 .button {
-  background: #CDA545 !important;
+  background: #0058B8 !important;
   color: #000 !important;
   border: 2px solid var(--primaryCol);
   border-radius: 100px;
@@ -8,8 +8,8 @@
 
 /* .button:hover {
   background-color: white;
-  border: 1px solid #CDA545;
-  color: #CDA545;
+  border: 1px solid #0058B8;
+  color: #0058B8;
 } */
 /* @media screen and (min-width: 500px) {
   .button {
@@ -23,7 +23,7 @@
 } */
 
 /* .button2 {
-  background: #CDA545 !important;
+  background: #0058B8 !important;
   color: #fff !important;
   border: 2px solid var(--primaryCol);
   border-radius: 100px;
@@ -33,7 +33,7 @@
 } */
 
 .bgPrimary {
-  background-color: #CDA545;
+  background-color: #0058B8;
 }
 
 .chartBar {
@@ -43,16 +43,16 @@
 
 .btn-prime {
   color: #000;
-  background-color: #CDA545;
-  border-color: #CDA545;
-  box-shadow: 0 0.125rem 0.25rem 0 #CDA545;
+  background-color: #0058B8;
+  border-color: #0058B8;
+  box-shadow: 0 0.125rem 0.25rem 0 #0058B8;
   border-radius: 100px !important;
 }
 
 .btn-prime:hover {
   color: #000;
-  background-color: #CDA545;
-  border-color: #CDA545;
+  background-color: #0058B8;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -99,7 +99,7 @@
 }
 
 .bg-menu-theme {
-  background-color: #CDA545 !important;
+  background-color: #0058B8 !important;
   color: #697a8d;
 }
 
@@ -126,16 +126,16 @@
 
 .btn.btn-prime {
   color: #000;
-  background-color: #CDA545 !important;
-  border-color: #CDA545;
-  box-shadow: 0 0.125rem 0.25rem 0 #CDA545;
+  background-color: #0058B8 !important;
+  border-color: #0058B8;
+  box-shadow: 0 0.125rem 0.25rem 0 #0058B8;
   border-radius: 100px !important;
 }
 
 .btn.btn-prime:hover {
   color: #000;
-  background-color: #CDA545;
-  border-color: #CDA545;
+  background-color: #0058B8;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -145,17 +145,17 @@ a:hover {
 }
 
 .btn-prime-outline {
-  color: #CDA545 !important;
+  color: #0058B8 !important;
   background-color: #fff !important;
-  border: 1px solid #CDA545;
+  border: 1px solid #0058B8;
   border-radius: 100px !important;
   padding: 7px 20px;
 }
 
 .btn-prime-outline:hover {
-  color: #CDA545;
+  color: #0058B8;
   background-color: #fff;
-  border-color: #CDA545;
+  border-color: #0058B8;
   transform: translateY(-1px);
   border-radius: 100px !important;
 }
@@ -190,7 +190,7 @@ a:hover {
   background-color: #fff !important;
   color: #1e1e1e !important;
   box-shadow: none;
-  border-bottom: 2px solid #CDA545;
+  border-bottom: 2px solid #0058B8;
   border-radius: 0px;
 }
 
@@ -203,7 +203,7 @@ a:hover {
   background: #fff !important;
   color: #1e1e1e !important;
   box-shadow: none !important;
-  border-bottom: 2px solid #CDA545 !important;
+  border-bottom: 2px solid #0058B8 !important;
   border-radius: 0 !important;
 }
 
@@ -224,7 +224,7 @@ ul {
 
 .stretched-link {
   text-decoration: none;
-  color: #CDA545 !important;
+  color: #0058B8 !important;
 }
 
 .lol {
@@ -320,9 +320,9 @@ ul {
 
 .taxes .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-  color: #CDA545;
+  color: #0058B8;
   background-color: none;
-  border-bottom: 2px solid #CDA545;
+  border-bottom: 2px solid #0058B8;
   border-radius: 0%;
   font-size: 14px;
 }
@@ -334,14 +334,14 @@ ul {
 
 .taxes .nav-pills .nav-link,
 .nav-pills .show>.nav-link {
-  color: #CDA545;
+  color: #0058B8;
   background-color: none;
   border-radius: 0%;
   font-size: 14px;
 }
 
 a:hover {
-  color: #CDA545;
+  color: #0058B8;
 }
 
 .taxes .nav-pills .nav-link.active,

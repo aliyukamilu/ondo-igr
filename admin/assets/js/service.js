@@ -169,14 +169,14 @@ async function fetchTinRequest() {
             if (tins.application_status === "approved") {
               addd += `
                     <td>
-                    <a href="viewtaxclearancecert.html?reference=${tins.reference_number}&load=true" target="_blank" class="text-[#CDA545]">Preview</a>
+                    <a href="viewtaxclearancecert.html?reference=${tins.reference_number}&load=true" target="_blank" class="text-[#0058B8]">Preview</a>
                     </td>
                     
                     `;
             } else  {
               addd += `
                     <td>
-                    <a href="" class="text-[#CDA545]" style="pointer-events: none; opacity:0.2">Preview</a>
+                    <a href="" class="text-[#0058B8]" style="pointer-events: none; opacity:0.2">Preview</a>
                     </td>
                     </tr>
                     `;

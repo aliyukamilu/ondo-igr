@@ -198,7 +198,7 @@ async function openInvoice(invoicenum, price) {
         <div class="px-6">
           <table class="table table-borderless table-sm">
             <thead>
-              <tr class="bg-[#CDA545]">
+              <tr class="bg-[#0058B8]">
                 <td class="text-[#fff] text-sm">ITEM DESCRIPTION</td>
                 <td class="text-[#fff] text-sm">QTY</td>
                 <td class="text-[#fff] text-sm">RATE</td>
@@ -254,7 +254,7 @@ async function openInvoice(invoicenum, price) {
       TotalInvoice += `
         <div class="px-6">
           <table class="table table-borderless">
-            <tr class="bg-[#CDA545]">
+            <tr class="bg-[#0058B8]">
               <td class="text-[#fff] text-sm">ITEM DESCRIPTION</td>
               <td class="text-[#fff] text-sm">QTY</td>
               <td class="text-[#fff] text-sm">RATE</td>

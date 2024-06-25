@@ -48,7 +48,7 @@ if (payment === "yes") {
       <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
     </a>
     <div class="pt-2">
-    <h5 class="text-[#1E1E1E] text-[15px] fontBold">Plateau IGR Portal</h5>
+    <h5 class="text-[#1E1E1E] text-[15px] fontBold">Ondo IGR Portal</h5>
     <p class="text-[#1E1E1E] text-[12px] pt-2">Future of tax payment</p>
     </div>
     </div>
@@ -144,7 +144,7 @@ if (payment === "yes") {
       <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
     </a>
     <div class="pt-3">
-    <h5 class="text-[#FFFFFF] text-[16px]">Plateau IGR Portal</h5>
+    <h5 class="text-[#FFFFFF] text-[16px]">Ondo IGR Portal</h5>
     <p class="text-[#727283] text-[12px] pt-2">Future of tax payment</p>
     </div>
     </div>
@@ -234,7 +234,7 @@ if (payment === "yes") {
       <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
     </a>
     <div class="pt-3">
-    <h5 class="text-[#FFFFFF] text-[16px]">Plateau IGR Portal</h5>
+    <h5 class="text-[#FFFFFF] text-[16px]">Ondo IGR Portal</h5>
     <p class="text-[#727283] text-[12px] pt-2">Future of tax payment</p>
     </div>
     </div>
@@ -336,7 +336,7 @@ if (payment === "yes") {
         <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
       </a>
       <div class="pt-3">
-      <h5 class="text-[#FFFFFF] text-[16px]">Plateau IGR Portal</h5>
+      <h5 class="text-[#FFFFFF] text-[16px]">Ondo IGR Portal</h5>
       <p class="text-[#727283] text-[12px] pt-2">Future of tax payment</p>
       </div>
       </div>
@@ -496,7 +496,7 @@ const currentYear = new Date().getFullYear()
 $(".footer").html(`
 <div class="flex justify-between">
 <div class="flex items-center gap-x-3">
-  <p class="text-[#1E1E1E] text-[2vh]">Copyright 2021 - ${currentYear} Primeguage Solutions Limited</p>
+  <p class="text-[#1E1E1E] text-[2vh]">Copyright 2021 - ${currentYear} Endy General Enterprises</p>
   <img src="../assets/img/logo1.png" width="50px" alt="">
 </div>
 <div class="flex items-center gap-x-3">

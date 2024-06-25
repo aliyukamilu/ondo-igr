@@ -7,7 +7,7 @@ $(".aside").html(`
     <img src="./assets/img/logo.png" class="w-[70px] -ml-2" alt="" />
   </a>
   <div class="pt-2">
-  <h5 class="text-[#1E1E1E] text-[15px] fontBold">Plateau IGR Portal</h5>
+  <h5 class="text-[#1E1E1E] text-[15px] fontBold">Ondo IGR Portal</h5>
   <p class="text-[#1E1E1E] text-[12px] pt-2">Future of tax payment</p>
   </div>
   </div>

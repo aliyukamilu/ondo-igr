@@ -8,7 +8,7 @@ new Chart(ctx, {
       label: 'Collected',
       data: [12, 19, 3, 5, 2, 3],
       borderWidth: 1,
-      backgroundColor: '#CDA545',
+      backgroundColor: '#0058B8',
     }]
   },
   options: {
@@ -30,7 +30,7 @@ new Chart(ctxa, {
       label: 'Industry (Growth)',
       data: [12, 19, 3, 5, 2, 3, 16, 17],
       borderWidth: 1,
-      backgroundColor: '#CDA545',
+      backgroundColor: '#0058B8',
     }]
   },
   options: {

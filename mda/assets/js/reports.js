@@ -58,7 +58,7 @@ function displayData(userInvoices) {
             <p class="text-[#027A48] font-bold">${invoice.payment_status}</p>
           </div>`
         : `<div class="bg-orange-100 rounded-2xl py-1 px-3">
-            <p class="text-[#CDA545] font-bold">${invoice.payment_status}</p>
+            <p class="text-[#0058B8] font-bold">${invoice.payment_status}</p>
           </div>`}
             </td>
             

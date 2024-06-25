@@ -515,7 +515,7 @@ function makePayment() {
         //     name: invoiceDetails.first_name + " " + invoiceDetails.surname,
         //   },
         //   customizations: {
-        //     title: "PlateauIGR",
+        //     title: "Ondo IGR",
         //     description: "Payment of tax",
         //     logo: "https://plateaugr.useibs.com/assets/img/logo.png",
         //   },

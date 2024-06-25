@@ -239,7 +239,7 @@ console.log(data)
       $("#ActivityLogs").html(``)
 
     } else {
-      // <button class="text-[#CDA545] text-[12px] underline underline-offset-1">clear</button>
+      // <button class="text-[#0058B8] text-[12px] underline underline-offset-1">clear</button>
 
       data.message.forEach((notification, i) => {
         $("#ActivityLogs").append(`

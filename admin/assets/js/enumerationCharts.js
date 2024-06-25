@@ -167,7 +167,7 @@ function pieCharts(labels, title, theData, theId) {
       datasets: [
         {
           label: title,
-          backgroundColor: ['#CDA545', '#EA4335', '#63B967', '#3A37D0', '#7AD0C7', '#242424'],
+          backgroundColor: ['#0058B8', '#EA4335', '#63B967', '#3A37D0', '#7AD0C7', '#242424'],
           data: theData
         }
       ]
@@ -313,8 +313,8 @@ function lineCharts(labels, title, theData, theId) {
       datasets: [
         {
           label: title,
-          backgroundColor: ['#CDA545'],
-          borderColor: "#CDA545",
+          backgroundColor: ['#0058B8'],
+          borderColor: "#0058B8",
           data: theData
         }
       ]
@@ -362,7 +362,7 @@ function barChartsColored(labels, title, theData, theId) {
       datasets: [
         {
           label: title,
-          backgroundColor: ['#CDA545', '#EA4335', '#63B967', '#3A37D0', '#7AD0C7'],
+          backgroundColor: ['#0058B8', '#EA4335', '#63B967', '#3A37D0', '#7AD0C7'],
           data: theData
         }
       ]
@@ -415,7 +415,7 @@ barChartsColored(["Basheer", "Jasmine", "Kachi", "Cynthia", "Madu"], "Total Taxp
 //       datasets: [
 //         {
 //           label: title,
-//           backgroundColor: ['#CDA545', '#EA4335', '#63B967', '#3A37D0', '#7AD0C7', '#242424'],
+//           backgroundColor: ['#0058B8', '#EA4335', '#63B967', '#3A37D0', '#7AD0C7', '#242424'],
 //           data: theData
 //         }
 //       ]

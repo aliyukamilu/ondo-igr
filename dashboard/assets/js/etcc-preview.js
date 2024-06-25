@@ -89,7 +89,7 @@ async function getEtccDetails() {
 
         <table class="table table-borderless table-sm">
           <thead>
-            <tr class="bg-[#CDA545]">
+            <tr class="bg-[#0058B8]">
               <td class="text-[#fff] text-sm">Year</td>
               <td class="text-[#fff] text-sm">Total Income</td>
               <td class="text-[#fff] text-sm">Taxable Income </td>

@@ -79,7 +79,7 @@ function registerUser() {
           icon: 'success',
           title: 'Complete',
           text: 'New user account has been created successfully',
-          confirmButtonColor: '#CDA545',
+          confirmButtonColor: '#0058B8',
           confirmButtonText: 'Close',
           showConfirmButton: true,
         }).then((result) => {
