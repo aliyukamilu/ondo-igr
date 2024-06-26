@@ -451,8 +451,7 @@ function makePayment() {
         let invoiceDetails = userInvoices.message[0]
 
         var handler = PaystackPop.setup({
-          key: 'pk_live_6e4b6e158fb0047173174b9f6958d4e14556c790',
-          "subaccount": "ACCT_govno1idl9hxudv",
+          key: 'pk_test_c9d44b692369902044962ac32fcd253d3eeaafef',
           email: invoiceDetails.email,
           amount: finalPay * 100,
           currency: 'NGN',
