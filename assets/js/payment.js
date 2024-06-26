@@ -644,7 +644,7 @@ async function openReceipt(invoicenum) {
           <h1 class="fontBold text-2xl">${invoice_info.invoice_number}</h1>
 
           <div>
-            <img src="./assets/img/akwaimage.png" alt="" class="">
+            <img src="./assets/img/akwaimage.png"  alt="" class="w-[150px]">
             
           </div>
 

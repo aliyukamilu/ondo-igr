@@ -298,7 +298,7 @@ async function openInvoice(invoicenum, price) {
 
       <div class="md:px-10 px-2 pb-6">
         <div class="flex items-center justify-center gap-2">
-          <img src="./assets/img/akwaimage.png" alt="">
+          <img src="./assets/img/akwaimage.png" class="w-[100px]" alt="">
           <div>
             <p class="text-xl fontBold pb-0">Plateau State Internal Revenue Service</p>
             <div class="flex items-center gap-x-3 flex-wrap">
